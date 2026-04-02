@@ -30,6 +30,7 @@ O projeto completo do PIM III está disponível no repositório principal:
 
 ## 👩🏻‍💻 Identificação
 
+- **RA:** R869DD5
 - **Nome:** Gabrielle Valéria  
 - **Função no projeto:** Product Owner (PO)  
 - **Disciplina:** Engenharia de Software Ágil Aplicada  
