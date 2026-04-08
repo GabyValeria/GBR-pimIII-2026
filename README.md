@@ -21,7 +21,7 @@ Seu objetivo é servir como um espaço complementar ao repositório principal do
 O projeto completo do PIM III está disponível no repositório principal:
 
 <p align="center">
-  <a href="https://github.com/GabyValeria/pimllI-2026">
+  <a href="https://github.com/GabyValeria/pimIII-2026.git">
     <img src="https://img.shields.io/badge/Acessar%20Reposit%C3%B3rio%20Principal-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
